@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54be5b9a-d40e-4ac0-b479-9268e73aa3d9": {
+      "ProjectGuid": "54be5b9a-d40e-4ac0-b479-9268e73aa3d9",
+      "DisplayName": "顺序表",
+      "ColorIndex": 0
+    },
+    "924fd770-f8f0-42a0-a513-5fbbad14e6ca": {
+      "ProjectGuid": "924fd770-f8f0-42a0-a513-5fbbad14e6ca",
+      "DisplayName": "链表",
+      "ColorIndex": 1
+    },
+    "50c27c2e-a551-4f5c-b87f-c99b0d5d5f64": {
+      "ProjectGuid": "50c27c2e-a551-4f5c-b87f-c99b0d5d5f64",
+      "DisplayName": "双向链表",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

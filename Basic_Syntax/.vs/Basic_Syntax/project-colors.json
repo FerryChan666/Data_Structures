@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f740892-9263-402b-ad35-14c15068c4a2": {
+      "ProjectGuid": "0f740892-9263-402b-ad35-14c15068c4a2",
+      "DisplayName": "scanf",
+      "ColorIndex": 0
+    },
+    "7ee4aef3-f8cd-4fee-b619-9327621bc3ed": {
+      "ProjectGuid": "7ee4aef3-f8cd-4fee-b619-9327621bc3ed",
+      "DisplayName": "float",
+      "ColorIndex": 1
+    },
+    "6d2c4a38-5447-4075-af35-a816006b15b9": {
+      "ProjectGuid": "6d2c4a38-5447-4075-af35-a816006b15b9",
+      "DisplayName": "character",
+      "ColorIndex": 2
+    },
+    "fd27f7f6-a3d8-44e8-b5f7-558f55962c22": {
+      "ProjectGuid": "fd27f7f6-a3d8-44e8-b5f7-558f55962c22",
+      "DisplayName": "算术运算符",
+      "ColorIndex": 3
+    },
+    "49ca4ece-8da9-477a-849f-75c2ca3f9a01": {
+      "ProjectGuid": "49ca4ece-8da9-477a-849f-75c2ca3f9a01",
+      "DisplayName": "逻辑运算符",
+      "ColorIndex": 4
+    },
+    "e8de30a4-0a9f-4ca6-a570-6ef6ba0005fc": {
+      "ProjectGuid": "e8de30a4-0a9f-4ca6-a570-6ef6ba0005fc",
+      "DisplayName": "其他运算符",
+      "ColorIndex": 5
+    },
+    "acb68faa-eb94-4a04-9e4a-9a0d9719adcc": {
+      "ProjectGuid": "acb68faa-eb94-4a04-9e4a-9a0d9719adcc",
+      "DisplayName": "对称数",
+      "ColorIndex": 6
+    },
+    "ffb4bd27-c531-4498-8ce8-1be1c97178f8": {
+      "ProjectGuid": "ffb4bd27-c531-4498-8ce8-1be1c97178f8",
+      "DisplayName": "阶乘",
+      "ColorIndex": 7
+    },
+    "45cdd379-7640-4f78-a9bc-83af7ff806f4": {
+      "ProjectGuid": "45cdd379-7640-4f78-a9bc-83af7ff806f4",
+      "DisplayName": "array",
+      "ColorIndex": 8
+    },
+    "50e5c3a4-01ba-45f3-b841-0d170d34c2e2": {
+      "ProjectGuid": "50e5c3a4-01ba-45f3-b841-0d170d34c2e2",
+      "DisplayName": "换票",
+      "ColorIndex": 9
+    },
+    "08beef20-6b27-482f-b6a0-871cbba0dbc7": {
+      "ProjectGuid": "08beef20-6b27-482f-b6a0-871cbba0dbc7",
+      "DisplayName": "arrary_of_char",
+      "ColorIndex": 10
+    },
+    "09ffa32a-f81e-41ac-a281-b9e140ab56d7": {
+      "ProjectGuid": "09ffa32a-f81e-41ac-a281-b9e140ab56d7",
+      "DisplayName": "gets",
+      "ColorIndex": 11
+    },
+    "31f04e5b-258d-4e77-8725-1968823aec58": {
+      "ProjectGuid": "31f04e5b-258d-4e77-8725-1968823aec58",
+      "DisplayName": "str",
+      "ColorIndex": 12
+    },
+    "002af259-0529-4ef0-8fef-22e3aa867e9c": {
+      "ProjectGuid": "002af259-0529-4ef0-8fef-22e3aa867e9c",
+      "DisplayName": "pointer",
+      "ColorIndex": 13
+    },
+    "e4c497df-0ecd-40d9-b508-af8fb2f88ad9": {
+      "ProjectGuid": "e4c497df-0ecd-40d9-b508-af8fb2f88ad9",
+      "DisplayName": "指针的自增自减",
+      "ColorIndex": 14
+    },
+    "2f772c0f-dd9f-4d05-a39c-233fe8bf6891": {
+      "ProjectGuid": "2f772c0f-dd9f-4d05-a39c-233fe8bf6891",
+      "DisplayName": "动态内存申请",
+      "ColorIndex": 15
+    },
+    "c4e00b8d-18fd-43b7-addd-6fe32f6ad213": {
+      "ProjectGuid": "c4e00b8d-18fd-43b7-addd-6fe32f6ad213",
+      "DisplayName": "Stack",
+      "ColorIndex": 0
+    },
+    "50996f09-3ff2-40d5-917d-6c426beddaa5": {
+      "ProjectGuid": "50996f09-3ff2-40d5-917d-6c426beddaa5",
+      "DisplayName": "输出字符串",
+      "ColorIndex": 1
+    },
+    "a6f2fcfd-ae49-4594-b0c1-bb78e45f5143": {
+      "ProjectGuid": "a6f2fcfd-ae49-4594-b0c1-bb78e45f5143",
+      "DisplayName": "字符串常量",
+      "ColorIndex": 2
+    },
+    "7ade0c54-d749-4792-80e8-3221f6de6fdd": {
+      "ProjectGuid": "7ade0c54-d749-4792-80e8-3221f6de6fdd",
+      "DisplayName": "递归",
+      "ColorIndex": 3
+    },
+    "0073445c-dbe1-4f0e-a902-8a14b9dc8009": {
+      "ProjectGuid": "0073445c-dbe1-4f0e-a902-8a14b9dc8009",
+      "DisplayName": "struct",
+      "ColorIndex": 4
+    },
+    "5f465a14-6a59-45d5-8d8d-9fc0ff3140a9": {
+      "ProjectGuid": "5f465a14-6a59-45d5-8d8d-9fc0ff3140a9",
+      "DisplayName": "指针与++",
+      "ColorIndex": 5
+    },
+    "467ba03b-688c-4e37-8af4-732227be12b9": {
+      "ProjectGuid": "467ba03b-688c-4e37-8af4-732227be12b9",
+      "DisplayName": "typedef",
+      "ColorIndex": 6
+    },
+    "902061b8-1e05-44f7-942d-b7008ce6e328": {
+      "ProjectGuid": "902061b8-1e05-44f7-942d-b7008ce6e328",
+      "DisplayName": "引用",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

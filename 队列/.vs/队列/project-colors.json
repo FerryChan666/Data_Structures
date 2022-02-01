@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c69dc9e-58d5-40b7-87f5-535aab6b491c": {
+      "ProjectGuid": "6c69dc9e-58d5-40b7-87f5-535aab6b491c",
+      "DisplayName": "循环队列",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  main.c
+D:\programming\C\C_Project\Basic_Syntax\gets\main.c(4,6): warning C4013: 'gets' undefined; assuming extern returning int
+  gets.vcxproj -> D:\programming\C\C_Project\Basic_Syntax\Debug\gets.exe

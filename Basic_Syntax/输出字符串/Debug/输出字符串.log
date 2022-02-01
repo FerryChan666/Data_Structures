@@ -1,0 +1,3 @@
+﻿  main.c
+D:\programming\C\C_Project\Basic_Syntax\输出字符串\main.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
+  输出字符串.vcxproj -> D:\programming\C\C_Project\Basic_Syntax\Debug\输出字符串.exe

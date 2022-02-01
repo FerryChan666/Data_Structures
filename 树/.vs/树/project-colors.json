@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "840b4c6d-13a0-4232-83d5-ec9b2fa55a95": {
+      "ProjectGuid": "840b4c6d-13a0-4232-83d5-ec9b2fa55a95",
+      "DisplayName": "二叉树",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
