@@ -83,8 +83,8 @@ int main() {
 			pcur = pcur->pnext;//左右都放了结点后，pcur指向队列的下一个
 		}
 	}
-	PreOrder(tree);
-	printf("\n");
+	//PreOrder(tree);
+	//printf("\n");
 	InOrder(tree);
 	printf("\n");
 	PostOrder(tree);

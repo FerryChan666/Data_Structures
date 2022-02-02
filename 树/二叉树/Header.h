@@ -9,7 +9,7 @@ typedef struct BiTNode {
 	struct BiTNode* lchild;
 	struct BiTNode* rchild;
 }BiTNode, * BiTree;
-//辅助链表
+//辅助链表s
 typedef struct tag {
 	BiTree p;//树的每一个节点的地址
 	struct tag* pnext;

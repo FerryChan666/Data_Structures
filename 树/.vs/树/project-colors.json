@@ -5,7 +5,12 @@
       "ProjectGuid": "840b4c6d-13a0-4232-83d5-ec9b2fa55a95",
       "DisplayName": "二叉树",
       "ColorIndex": 0
+    },
+    "9dac1d69-a12a-4619-a7a4-c4c297dc8b9b": {
+      "ProjectGuid": "9dac1d69-a12a-4619-a7a4-c4c297dc8b9b",
+      "DisplayName": "Binary_Search_Tree",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
