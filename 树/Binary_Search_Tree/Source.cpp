@@ -1,7 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
-typedef int BiElemType ;
+typedef int BiElemType;
+typedef int ElemType;
 
 typedef struct BiTNode {
 	BiElemType data;
@@ -55,16 +56,36 @@ BiTree BST_Search(BiTree t, BiElemType e) {
 	}
 }
 
+int Binary_Search(ElemType e, ElemType* arr, int n) {
+	int low = 0, high=n-1, mid;//记录数组下标
+	while (low <= high)
+	{
+		mid = (low + high) / 2;
+		if (arr[mid] == e) {
+			return mid;
+		}
+		else if (e < arr[mid]) {
+			high = mid - 1;
+		}
+		else
+		{
+			low = mid + 1;
+		}
+	}
+}
+
 int main() {
 	BiTree t=NULL;
 	int arr[10] = { 87, 7, 60, 80 ,59, 34, 86, 99, 21, 3 };
 	Create_BST(t, arr, 10);
 
-	int a[10];
+	int arr_ordered[10];
 	int pos = 0;
-	InOrder(t,a,pos);
+	InOrder(t, arr_ordered, pos);
 	printf("\n");
-
+	
+	int i=Binary_Search(21,arr_ordered,10);
+	printf("%d\n", i);
 
 	return 0;
 }

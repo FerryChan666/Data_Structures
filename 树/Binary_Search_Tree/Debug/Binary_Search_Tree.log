@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-D:\programming\C\C_Project\树\Binary_Search_Tree\Source.cpp(31,23): warning C4018: '<': signed/unsigned mismatch
+D:\programming\C\C_Project\树\Binary_Search_Tree\Source.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+D:\programming\C\C_Project\树\Binary_Search_Tree\Source.cpp(75): warning C4715: 'Binary_Search': not all control paths return a value
   Binary_Search_Tree.vcxproj -> D:\programming\C\C_Project\树\Debug\Binary_Search_Tree.exe

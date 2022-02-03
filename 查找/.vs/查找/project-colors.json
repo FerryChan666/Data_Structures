@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01a4d517-1e03-4f62-97be-218d448b2b78": {
+      "ProjectGuid": "01a4d517-1e03-4f62-97be-218d448b2b78",
+      "DisplayName": "顺序查找",
+      "ColorIndex": 0
+    },
+    "b723dafe-9349-4a9a-b0ca-c7cb7cff2b5e": {
+      "ProjectGuid": "b723dafe-9349-4a9a-b0ca-c7cb7cff2b5e",
+      "DisplayName": "二分查找",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
