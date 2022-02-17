@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17560fb9-eea3-485b-a9bf-8fa87aa0cb4e": {
+      "ProjectGuid": "17560fb9-eea3-485b-a9bf-8fa87aa0cb4e",
+      "DisplayName": "test",
+      "ColorIndex": 0
+    },
+    "ae363055-b1cf-43a2-a54d-50ee30085c2e": {
+      "ProjectGuid": "ae363055-b1cf-43a2-a54d-50ee30085c2e",
+      "DisplayName": "Bubble_Sort",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

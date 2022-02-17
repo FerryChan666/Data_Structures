@@ -44,18 +44,6 @@ void InOrder(BiTree p, BiElemType *a, int &pos) {
 	}
 }
 
-BiTree BST_Search(BiTree t, BiElemType e) {
-	if (e == t->data) {
-		return t;
-	}
-	else if (e < t->data) {
-		return BST_Search(t->lchild, e);
-	}
-	else {
-		return BST_Search(t->rchild, e);
-	}
-}
-
 int Binary_Search(ElemType e, ElemType* arr, int n) {
 	int low = 0, high=n-1, mid;//记录数组下标
 	while (low <= high)

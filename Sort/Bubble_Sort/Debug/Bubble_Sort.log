@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\programming\C\C_Project\Sort\Bubble_Sort\Source.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+  Bubble_Sort.vcxproj -> D:\programming\C\C_Project\Sort\Debug\Bubble_Sort.exe
